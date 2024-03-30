@@ -1,0 +1,186 @@
+[
+	{
+		"file": "C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\BTService_PlayerLocatioIfSee.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\BTService_PlayerLocatioIfSee.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\BTService_PlayerLocation.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\BTService_PlayerLocation.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\Gun.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\Gun.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\KillEmAllGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\KillEmAllGameMode.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\MyBTTaskNode_Shoot.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\MyBTTaskNode_Shoot.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\MyBTTask_ClearBlackBoardValue.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\MyBTTask_ClearBlackBoardValue.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\Shooter.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\Shooter.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\ShooterAIController.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\ShooterAIController.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\ShooterPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\ShooterPlayerController.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\SimpleShooter.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\SimpleShooter.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\SimpleShooter.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\SimpleShooterGameModeBase.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\SimpleShooterGameModeBase.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\iTopya\\Documents\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	}
+]
